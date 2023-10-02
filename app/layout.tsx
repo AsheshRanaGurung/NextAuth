@@ -25,4 +25,6 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
     );
 };
 
+//this commit is to test the git commit fill in past
+
 export default RootLayout;
